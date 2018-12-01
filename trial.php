@@ -2,28 +2,27 @@
 <body>
 <form action="trial.php" method="post" enctype="multipart/form-data">
 		Type The Word: <br>
-		 <input type="text" name="v1">
+		<input type="text" name="v1">
 		<br>
 		Hindi To English <input type="radio" name="buttongroup1" value="1" id="cb1">
 		<br>
-
 		English To Hindi <input type="radio" name="buttongroup1" id="cb2" value="2">
-	
 		<br>
-
-		<input type="submit" value="Go!"> 
-	</form>
+		<button value="Go!" name="Go!">Go!</button>
+</form>
 	
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     	<script src="https://www.google.com/jsapi"></script>
 </head>
 
-
 <?php
-$notable=0;
-if(isset($_POST["Go!"]))
-	$notable=1;
+$notable=1;
+//echo isset($_POST["Go!"]). "what is isset";
+if(!isset($_POST["Go!"]))	{
+	$notable=0;
+	//echo "what is isset";
+}
 $servername = "localhost";
 $username = "root";
 $password = "ani";
@@ -35,9 +34,10 @@ else
 	echo "Connection Established with nlp<br>";
 
 $x = $_POST["v1"];
-
+//echo "$x here";
 if($_POST['buttongroup1']=='1'){
 	$selection_of_word = "SELECT english FROM words WHERE hindi='$x'";
+	//echo "entered here";
 	//echo $selection_of_word." here<br>";
 	$result=mysqli_query($conn,$selection_of_word);
 	while($row = mysqli_fetch_row($result))	{
