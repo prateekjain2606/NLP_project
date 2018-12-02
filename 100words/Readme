@@ -1,2 +1,8 @@
-1) There are appropriate comments provided in the code
-2) The installation instructions 
+There are three PHP files in our submission:-
+1)first.php - This is the introduction page for our project
+2)try1.php - This is the main php file of our project containing all the functionalities
+3)makedb.php - This php file is used to make database from contents present in a text file
+
+There are two jpg files for css purposes:-
+1)background.jpg
+2)bg.jpg
