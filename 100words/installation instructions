@@ -1,0 +1,6 @@
+1) In the code of makedb2.php it is a requirement the the user (if wants to set the local host) has to enter his SQL username and password.
+SQL must be preinstalled the computer of the local host.
+2) Internet is required for the programme to work and depending on the internet spped one can adjust the timing ****PRATEEK FILL THIS***.
+Appropriate web browsers are requirded (preferred latest Google Chrome).
+
+hindiword

@@ -1,0 +1,100 @@
+above;adhik;अधिक;This is above much;यह बहुत अधिक है
+accurate;satik;सटीक;That was an accurate attack;वह सटीक वार था
+addend;yojya;योज्य
+addition;yog;योग
+add;jodna;जोड़ना;Its easy to add this;यह जोड़ना आसान है
+after;bad;बाद;Do it after studying;अध्ययन के बाद करो
+afternoon;dopahara;दोपहर
+alike;tulya;तुल्य
+all;sab;सब
+almost;kamobesh;कमोबेश
+amount;matra;मात्रा
+angle;kon;कोण;Angle is 180;कोण 180 है
+answer;uttar;उत्तर;Please give answer;कृपया उत्तर दें
+application;anuparyog;अनुप्रयोग
+apply;lagou;लागू
+approach;phauchna;पहुचना
+arc;chap;चाप;Make an arc;एक चाप बनाओ
+area;kshetraphal;क्षेत्रफल;Area of rectangle;आयत का क्षेत्रफल
+argument;tark;तर्क;He gave nice argument;उसने अच्छा तर्क दिया
+arrange;vyavastith;व्यवस्तिथ;Please arrange it;कृपया इसे व्यवस्थित करें
+array;sarani;सारणी
+attribute;guun;गुण
+autumn;sharad;शरद;Autumn has come;शरद ऋतु आ गया है
+average;ausat;औसत;His average marks are good;उनके औसत अंक अच्छे हैं
+axis;aksh;अक्ष
+base;aadhar;आधार;This is the base area;यह आधार क्षेत्र है
+before;aage;आगे
+below;neeche;नीचे;Cat is below the table;बिल्ली टेबल के नीचे है
+beside;bagal;बगल;He sits beside me;वह मेरे बगल में बैठता है
+between;beech;बीच;He sits in between us;वह हमारे बीच में बैठता है
+big;bada;बड़ा;He is a big boy;वह एक बड़ा लड़का है
+bisect;dvibhajit;द्विभाजित
+calculate;ganana;गणना;Calculate the sum;योग की गणना करें
+capacity;kshmata;क्षमता;His capacity is less;उनकी क्षमता कम है
+cent;sht;शत
+chance;avasar;अवसर
+charts;manchitra;मानचित्र
+circle;vartul;वर्तुल
+circumference;paridhi;परिधि;Please calculate circumference;कृपया परिधि की गणना करें
+clarify;samazaana;समझाना
+closed;band;बंद;This box is closed;यह बॉक्स बंद है
+coin;sikka;सिक्का;This is a coin;यह एक सिक्का है
+collaborate;sahayog;सहयोग
+collection;sanchayana;संचयन
+common;ubhayanishtha;उभयनिष्ठ
+compare;tulana;तुलना;Dont compare with me;मेरे साथ तुलना मत करो
+compensation;pratikaran;प्रतिकरण
+conclusion;parinam;परिणाम;This is the conclusion;यह परिणाम है
+concrete;murt;मूर्त
+cone;shanku;शंकु;This is a cone;यह एक शंकु है
+congruent;sarwagsam;सर्वांगसम
+consecutive;krmaagat;क्रमागत
+constant;achr;अचर
+construct;rachna;रचना
+contrast;vishamata;विषमता
+conversion;roopantaran;रूपांतरण
+convert;badalna;बदलना
+coordinate;nirdeshank;निर्देशांक
+corner;kona;कोना
+corresponding;sngat;संगत
+counter;prati;प्रति
+count;ginati;गिनती
+cube;ghan;गहन;I like cube;मुझे गहन पसंद है
+cup;pyala;प्याला
+currency;mudra;मुद्रा;Currency is going up;मुद्रा बढ़ रही है
+customary;prachalit;प्रचलित
+cylinder;belan;बेलन
+data;aankade;आंकड़े;This data is good;ये आंकड़े अच्छे है
+day;diwas;दिवस;Today is a good day;आज अच्छा दिवस है
+daylight;diwalok;दिवालोक
+decagon;dashabhuj;दशभुज
+decimal;dashamalav;दशमलव;There is a decimal point;एक दशमलव बिंदु है
+relation;smbhndh;सम्भन्ध
+decompose;viyojan;वियोजन
+degree;ansh;अंश
+denominator;hr;हर
+density;ghanatva;घनत्व
+design;khaka;खाका
+diagram;aarekh;आरेख;Please make a diagram;कृपया एक आरेख बनाएं
+diameter;vyas;व्यास;This is the diameter;यह व्यास है
+difference;antar;अंतर;There is difference between them;उनके बीच अंतर है
+digit;ank;अंक;Please enter a digit;कृपया एक अंक दर्ज करें
+dimension;aayam;आयाम;Please enter a dimension;कृपया एक आयाम दर्ज करें
+discuss;charcha;चर्चा
+divisible;vibhagya;विभागया
+division;bhag;भाग
+divisor;bhajak;भाजक
+dodecahedron;dwadashfalak;द्वादशफ़लक
+double;doguna;दोगुना
+draw;chitra;चित्र
+edge;kor;कोर
+eight;aath;आठ;There are eight people;आठ लोग हैं
+elapse;vyatit;व्यतीत
+ellipse;dirghavrutta;दीर्घवृत्त
+end;antim;अंतिम
+equal;barabar;बराबर;They are equal;वे बराबर हैं
+equation;samikaran;समीकरण;Please write equation;कृपया समीकरण लिखें
+equidistant;samantarali;समान्तराली
+equivalent;samaayatan;समायातन
+estimate;anuman;अनुमान;Kindly estimate it;कृपया इसका अनुमान लगाएं
