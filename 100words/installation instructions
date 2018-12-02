@@ -1,3 +1,4 @@
-
-2) Internet is required for the programme to work and depending on the internet spped one can adjust the timing for setTimeOut() function.
-Appropriate web browsers are requirded (preferred latest Google Chrome).
+1) Keep all the pictures in the same directory for CSS purposes.
+2) Start the localhost server.
+3) Run the command 'mysql -u root -h localhost -p nlp < nlp.sql' in the same directory in which the backup of our database is stored.
+  Provide appropriate passwords for SQL.
