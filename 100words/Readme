@@ -6,3 +6,6 @@ There are three PHP files in our submission:-
 There are two jpg files for css purposes:-
 1)background.jpg
 2)bg.jpg
+
+There is one text file:-
+1)100.txt - It contains data to be filled into database using makedb.php
